@@ -2,4 +2,4 @@ JS
 ==
 
 Useful scripts 
-First ones addedd: valentinadantuono.com
+First ones added: valentinadantuono.com
